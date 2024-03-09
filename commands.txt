@@ -2,5 +2,5 @@ git init
 git status
 git add
 git restore
-gt checkout -b 
-  
+git checkout -b 
+git remote -v  
